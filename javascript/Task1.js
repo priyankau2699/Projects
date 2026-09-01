@@ -18,5 +18,9 @@ console.log(studentName);
 studentAge = 23;
 console.log(studentAge);
 // Try changing the const value and observe the error.
+// collegeName = "XYZ College";
 // Try redeclaring the var variable.
+var studentName = "Rahul";
+console.log(studentName);
 // Try redeclaring the let variable and observe the error.
+// let studentAge = 25;

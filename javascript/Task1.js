@@ -20,4 +20,3 @@ console.log(studentAge);
 // Try changing the const value and observe the error.
 // Try redeclaring the var variable.
 // Try redeclaring the let variable and observe the error.
-// Aravind is a genies
